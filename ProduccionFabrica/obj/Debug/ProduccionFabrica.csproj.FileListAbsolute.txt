@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\ProduccionFabrica.exe.config
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\ProduccionFabrica.exe
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\ProduccionFabrica.pdb
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\obj\Debug\ProduccionFabrica.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\obj\Debug\ProduccionFabrica.exe
+C:\Users\admin\Desktop\otros\ProduccionFabrica\ProduccionFabrica\obj\Debug\ProduccionFabrica.pdb
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\ProduccionFabrica.exe.config
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\obj\Debug\ProduccionFabrica.exe
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\obj\Debug\ProduccionFabrica.pdb
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\ProduccionFabrica.exe
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\ProduccionFabrica.pdb
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\bin\Debug\MySql.Data.dll
+C:\Users\jorgealberto\Desktop\otros\ProduccionFabrica\ProduccionFabrica\obj\Debug\ProduccionFabrica.csprojResolveAssemblyReference.cache
